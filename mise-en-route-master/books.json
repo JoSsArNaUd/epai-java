@@ -1,0 +1,1896 @@
+[
+	{
+		"id": "martinCleanArchitectureCraftsman2017",
+		"type": "book",
+		"collection-title": "Robert C. Martin Series",
+		"edition": "1",
+		"event-place": "London",
+		"isbn": "978-0-13-449416-6",
+		"language": "en",
+		"number-of-pages": "432",
+		"publisher": "Prentice Hall",
+		"publisher-place": "London",
+		"title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+		"title-short": "Clean Architecture",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Robert C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "meszarosXUnitTestPatterns2007",
+		"type": "book",
+		"collection-title": "Addison-Wesley signature series",
+		"edition": "1",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-13-149505-0",
+		"language": "en",
+		"number-of-pages": "944",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "xUnit Test Patterns: Refactoring Test Code",
+		"title-short": "xUnit Test Patterns",
+		"author": [
+			{
+				"family": "Meszaros",
+				"given": "Gerard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "duvallContinuousIntegrationImproving2007",
+		"type": "book",
+		"collection-title": "Addison-Wesley signature series",
+		"edition": "1",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-321-33638-5",
+		"language": "en",
+		"number-of-pages": "336",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "Continuous integration: improving software quality and reducing risk",
+		"title-short": "Continuous integration",
+		"author": [
+			{
+				"family": "Duvall",
+				"given": "Paul M."
+			},
+			{
+				"family": "Matyas",
+				"given": "Steve"
+			},
+			{
+				"family": "Glover",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "meierIntroductionPratiqueAux2010",
+		"type": "book",
+		"collection-title": "Collection IRIS",
+		"edition": "2",
+		"event-place": "Paris",
+		"isbn": "978-2-287-25205-1",
+		"language": "fr",
+		"number-of-pages": "303",
+		"publisher": "Springer",
+		"publisher-place": "Paris",
+		"title": "Introduction pratique aux bases de données relationnelles",
+		"author": [
+			{
+				"family": "Meier",
+				"given": "Andreas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "ciubotaruAdvancedNetworkProgramming2013",
+		"type": "book",
+		"collection-title": "Computer Communications and Networks",
+		"edition": "1",
+		"event-place": "London",
+		"isbn": "978-1-4471-5291-0",
+		"language": "en",
+		"number-of-pages": "266",
+		"publisher": "Springer",
+		"publisher-place": "London",
+		"title": "Advanced Network Programming – Principles and Techniques",
+		"author": [
+			{
+				"family": "Ciubotaru",
+				"given": "Bogdan"
+			},
+			{
+				"family": "Muntean",
+				"given": "Gabriel-Miro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "muellerMachineLearningDummies2016",
+		"type": "book",
+		"collection-title": "For dummies",
+		"edition": "1",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-1-119-24551-3",
+		"language": "en",
+		"number-of-pages": "410",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "Machine learning for dummies",
+		"author": [
+			{
+				"family": "Mueller",
+				"given": "John"
+			},
+			{
+				"family": "Massaron",
+				"given": "Luca"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "janichWhatInformation2018",
+		"type": "book",
+		"collection-number": "55",
+		"collection-title": "Electronic mediations",
+		"edition": "1",
+		"event-place": "Minneapolis, MN",
+		"isbn": "978-1-5179-0008-3",
+		"language": "en",
+		"number-of-pages": "187",
+		"publisher": "University of Minnesota Press",
+		"publisher-place": "Minneapolis, MN",
+		"title": "What is information?",
+		"author": [
+			{
+				"family": "Janich",
+				"given": "Peter"
+			},
+			{
+				"family": "Hayot",
+				"given": "Eric"
+			},
+			{
+				"family": "Pao",
+				"given": "Lea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "burdBeginningProgrammingJava2017",
+		"type": "book",
+		"collection-title": "For dummies",
+		"edition": "5",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-1-119-23553-8",
+		"language": "en",
+		"number-of-pages": "524",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "Beginning programming with Java for dummies",
+		"author": [
+			{
+				"family": "Burd",
+				"given": "Barry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "andersonStatisticsBigData2015",
+		"type": "book",
+		"collection-title": "For dummies",
+		"edition": "1",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-1-118-94001-3",
+		"language": "en",
+		"number-of-pages": "366",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "Statistics for big data for dummies",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Alan"
+			},
+			{
+				"family": "Semmelroth",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "muellerAlgorithms2017",
+		"type": "book",
+		"collection-title": "For dummies",
+		"edition": "1",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-1-119-33049-3",
+		"language": "en",
+		"number-of-pages": "418",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "Algorithms",
+		"author": [
+			{
+				"family": "Mueller",
+				"given": "John"
+			},
+			{
+				"family": "Massaron",
+				"given": "Luca"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "muellerArtificialIntelligenceDummies2018",
+		"type": "book",
+		"collection-title": "For dummies",
+		"edition": "1",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-1-119-46765-6",
+		"language": "en",
+		"number-of-pages": "311",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "Artificial intelligence for dummies",
+		"author": [
+			{
+				"family": "Mueller",
+				"given": "John"
+			},
+			{
+				"family": "Massaron",
+				"given": "Luca"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "meyerObjectOrientedSoftwareConstruction1997",
+		"type": "book",
+		"edition": "2",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-13-629155-8",
+		"language": "en",
+		"number-of-pages": "1296",
+		"publisher": "Prentice Hall",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "Object-Oriented Software Construction",
+		"author": [
+			{
+				"family": "Meyer",
+				"given": "Bertrand"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "martinCleanCodeHandbook2008a",
+		"type": "book",
+		"collection-title": "Robert C. Martin Series",
+		"edition": "1",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-13-235088-4",
+		"language": "en",
+		"number-of-pages": "431",
+		"publisher": "Prentice Hall",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "Clean code: a handbook of agile software craftsmanship",
+		"title-short": "Clean code",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Robert C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "tanenbaumOperatingSystemsDesign2006a",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "0-13-0-13-142938-8",
+		"language": "en",
+		"number-of-pages": "1054",
+		"publisher": "Pearson/Prentice Hall",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "Operating systems: design and implementation",
+		"title-short": "Operating systems",
+		"author": [
+			{
+				"family": "Tanenbaum",
+				"given": "Andrew S."
+			},
+			{
+				"family": "Woodhull",
+				"given": "Albert S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "tanenbaumModernOperatingSystems2015",
+		"type": "book",
+		"edition": "4",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-13-359162-0",
+		"language": "en",
+		"number-of-pages": "1101",
+		"publisher": "Pearson",
+		"publisher-place": "Boston, MA",
+		"title": "Modern operating systems",
+		"author": [
+			{
+				"family": "Tanenbaum",
+				"given": "Andrew S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "chauhanPrinciplesOperatingSystems2014",
+		"type": "book",
+		"edition": "1",
+		"event-place": "New Delhi",
+		"isbn": "978-0-19-808287-3",
+		"language": "en",
+		"number-of-pages": "784",
+		"publisher": "Oxford University Press",
+		"publisher-place": "New Delhi",
+		"title": "Principles of Operating Systems",
+		"author": [
+			{
+				"family": "Chauhan",
+				"given": "Naresh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "boochObjectOrientedAnalysisDesign2007",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-201-89551-3",
+		"language": "en",
+		"number-of-pages": "720",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "Object-Oriented Analysis and Design with Applications",
+		"author": [
+			{
+				"family": "Booch",
+				"given": "Grady"
+			},
+			{
+				"family": "Maksimchuk",
+				"given": "Robert"
+			},
+			{
+				"family": "Engle",
+				"given": "Michael"
+			},
+			{
+				"family": "Young",
+				"given": "Bobbi"
+			},
+			{
+				"family": "Conallen",
+				"given": "Jim"
+			},
+			{
+				"family": "Houston",
+				"given": "Kelli"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "gammaDesignPatternsElements1980",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Reading, MA",
+		"isbn": "978-0-201-63361-0",
+		"language": "en",
+		"number-of-pages": "416",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Reading, MA",
+		"title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+		"title-short": "Design Patterns",
+		"author": [
+			{
+				"family": "Gamma",
+				"given": "Erich"
+			},
+			{
+				"family": "Helm",
+				"given": "Richard"
+			},
+			{
+				"family": "Johnson",
+				"given": "Ralph"
+			},
+			{
+				"family": "Vlissides",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "freemanGrowingObjectOrientedSoftware2009",
+		"type": "book",
+		"collection-title": "Addison-Wesley signature series",
+		"edition": "1",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-321-50362-6",
+		"language": "en",
+		"number-of-pages": "384",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Boston, MA",
+		"title": "Growing Object-Oriented Software, Guided by Tests",
+		"author": [
+			{
+				"family": "Freeman",
+				"given": "Steve"
+			},
+			{
+				"family": "Pryce",
+				"given": "Nat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "smithVirtualMachinesVersatile2005",
+		"type": "book",
+		"edition": "1",
+		"event-place": "San Francisco, CA",
+		"isbn": "978-1-55860-910-5",
+		"language": "en",
+		"number-of-pages": "664",
+		"publisher": "Morgan Kaufmann Publishers",
+		"publisher-place": "San Francisco, CA",
+		"title": "Virtual Machines: Versatile Platforms For Systems And Processes",
+		"title-short": "Virtual Machines",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Jim"
+			},
+			{
+				"family": "Nair",
+				"given": "Ravi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "dathanObjectOrientedAnalysisDesign2015",
+		"type": "book",
+		"collection-title": "Undergraduate Topics in Computer Science",
+		"edition": "2",
+		"event-place": "Cham",
+		"isbn": "978-3-319-24278-1",
+		"language": "en",
+		"number-of-pages": "492",
+		"publisher": "Springer",
+		"publisher-place": "Cham",
+		"title": "Object-Oriented Analysis, Design and Implementation",
+		"author": [
+			{
+				"family": "Dathan",
+				"given": "Brahma"
+			},
+			{
+				"family": "Ramnath",
+				"given": "Sarnath"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "seidlUMLClassroom2015",
+		"type": "book",
+		"collection-title": "Undergraduate Topics in Computer Science",
+		"edition": "1",
+		"event-place": "Heidelberg",
+		"isbn": "978-3-319-12741-5",
+		"language": "en",
+		"number-of-pages": "206",
+		"publisher": "Springer",
+		"publisher-place": "Heidelberg",
+		"title": "UML @ Classroom",
+		"author": [
+			{
+				"family": "Seidl",
+				"given": "Martina"
+			},
+			{
+				"family": "Scholz",
+				"given": "Marion"
+			},
+			{
+				"family": "Huemer",
+				"given": "Christian"
+			},
+			{
+				"family": "Kappel",
+				"given": "Gerti"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "pagePrinciplesProgrammingLanguages2009",
+		"type": "book",
+		"collection-title": "Undergraduate Topics in Computer Science",
+		"edition": "1",
+		"event-place": "London",
+		"isbn": "978-1-84882-031-9",
+		"language": "en",
+		"number-of-pages": "159",
+		"publisher": "Springer",
+		"publisher-place": "London",
+		"title": "Principles of Programming Languages",
+		"author": [
+			{
+				"family": "Page",
+				"given": "Daniel"
+			},
+			{
+				"family": "Smart",
+				"given": "Nigel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "gabbrielliProgrammingLanguagesPrinciples2010a",
+		"type": "book",
+		"collection-title": "Undergraduate Topics in Computer Science",
+		"edition": "1",
+		"event-place": "London",
+		"isbn": "978-1-84882-913-8",
+		"language": "en",
+		"number-of-pages": "440",
+		"publisher": "Springer",
+		"publisher-place": "London",
+		"title": "Programming Languages: Principles and Paradigms",
+		"title-short": "Programming Languages",
+		"author": [
+			{
+				"family": "Gabbrielli",
+				"given": "Maurizio"
+			},
+			{
+				"family": "Martini",
+				"given": "Simone"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "meyerAgile2014",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Cham",
+		"isbn": "978-3-319-05154-3",
+		"language": "en",
+		"number-of-pages": "192",
+		"publisher": "Springer",
+		"publisher-place": "Cham",
+		"title": "Agile!",
+		"author": [
+			{
+				"family": "Meyer",
+				"given": "Bertrand"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "cazesArchitectureMachinesSystemes2008",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Paris",
+		"isbn": "978-2-10-053945-1",
+		"language": "fr",
+		"number-of-pages": "464",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Architecture des machines et des systèmes informatiques: cours et exercices corrigés",
+		"title-short": "Architecture des machines et des systèmes informatiques",
+		"author": [
+			{
+				"family": "Cazes",
+				"given": "Alain"
+			},
+			{
+				"family": "Delacroix",
+				"given": "Joëlle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "shallowayDesignPatternsExplained2001",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-201-71594-1",
+		"language": "en",
+		"number-of-pages": "368",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Boston, MA",
+		"title": "Design Patterns Explained: A New Perspective on Object-Oriented Design",
+		"title-short": "Design Patterns Explained",
+		"author": [
+			{
+				"family": "Shalloway",
+				"given": "Alan"
+			},
+			{
+				"family": "Trott",
+				"given": "James R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "flynnUnderstandingOperatingSystems2014",
+		"type": "book",
+		"edition": "7",
+		"event-place": "Boston, MA",
+		"isbn": "978-1-285-09655-1",
+		"language": "en",
+		"number-of-pages": "572",
+		"publisher": "Cengage Learning",
+		"publisher-place": "Boston, MA",
+		"title": "Understanding operating systems",
+		"author": [
+			{
+				"family": "Flynn",
+				"given": "Ida M."
+			},
+			{
+				"family": "McHoes",
+				"given": "Ann McIver"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "aschAcquisitionDonneesCapteur2015",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Paris",
+		"isbn": "978-2-10-056469-9",
+		"language": "fr",
+		"number-of-pages": "544",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Acquisition de données Du capteur à l'ordinateur",
+		"author": [
+			{
+				"family": "Asch",
+				"given": "Georges"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "brueggeObjectorientedSoftwareEngineering2010",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-13-606125-0",
+		"language": "en",
+		"number-of-pages": "778",
+		"publisher": "Prentice Hall",
+		"publisher-place": "Boston, MA",
+		"title": "Object-oriented software engineering: using UML, patterns, and Java",
+		"title-short": "Object-oriented software engineering",
+		"author": [
+			{
+				"family": "Bruegge",
+				"given": "Bernd"
+			},
+			{
+				"family": "Dutoit",
+				"given": "Allen H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "rumpeModelingUML2016",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Cham",
+		"isbn": "978-3-319-33932-0",
+		"language": "en",
+		"number-of-pages": "21",
+		"publisher": "Springer",
+		"publisher-place": "Cham",
+		"title": "Modeling with UML",
+		"author": [
+			{
+				"family": "Rumpe",
+				"given": "Bernhard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "stroustrupProgrammingPrinciplesPractice2014",
+		"type": "book",
+		"edition": "2",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-321-99278-9",
+		"language": "en",
+		"number-of-pages": "1312",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "Programming: Principles and Practice Using C++",
+		"author": [
+			{
+				"family": "Stroustrup",
+				"given": "Bjarne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "stroustrupProgrammingLanguage2013",
+		"type": "book",
+		"edition": "4",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-321-56384-2",
+		"language": "en",
+		"number-of-pages": "1346",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "The C++ programming language",
+		"author": [
+			{
+				"family": "Stroustrup",
+				"given": "Bjarne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "mclaughlinHeadFirstObject2006",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Sebastopol, CA",
+		"isbn": "978-0-596-00867-3",
+		"language": "en",
+		"number-of-pages": "634",
+		"publisher": "O′Reilly",
+		"publisher-place": "Sebastopol, CA",
+		"title": "Head First Object–Oriented Analysis and Design",
+		"author": [
+			{
+				"family": "Mclaughlin",
+				"given": "David"
+			},
+			{
+				"family": "Pollice",
+				"given": "Gary"
+			},
+			{
+				"family": "West",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "wardHowLinuxWorks2014",
+		"type": "book",
+		"edition": "2",
+		"event-place": "San Francisco, CA",
+		"isbn": "978-1-59327-567-9",
+		"language": "en",
+		"number-of-pages": "392",
+		"publisher": "No Starch Press",
+		"publisher-place": "San Francisco, CA",
+		"title": "How Linux Works, 2nd Edition: What Every Superuser Should Know",
+		"title-short": "How Linux Works, 2nd Edition",
+		"author": [
+			{
+				"family": "Ward",
+				"given": "Brian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "brittonStudentGuideObjectOriented2004",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Oxford",
+		"isbn": "978-0-7506-6123-2",
+		"language": "en",
+		"number-of-pages": "416",
+		"publisher": "Butterworth-Heinemann",
+		"publisher-place": "Oxford",
+		"title": "A Student Guide to Object-Oriented Development",
+		"author": [
+			{
+				"family": "Britton",
+				"given": "Carol"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "saternosClientserverWebApps2014",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Sebastopol, CA",
+		"isbn": "978-1-4493-6933-0",
+		"language": "en",
+		"number-of-pages": "238",
+		"publisher": "O'Reilly",
+		"publisher-place": "Sebastopol, CA",
+		"title": "Client-server web apps with JavaScript and Java",
+		"author": [
+			{
+				"family": "Saternos",
+				"given": "Casimir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "breton-schreinerEssentielPAOMise2009",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-212-12513-9",
+		"language": "fr",
+		"number-of-pages": "206",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"title": "L'essentiel de la PAO mise en pages, logiciels, polices, images",
+		"author": [
+			{
+				"family": "Breton-Schreiner",
+				"given": "Cédric"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "chanetMathematiquesPourInformatique2015",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-10-072075-0",
+		"language": "fr",
+		"number-of-pages": "304",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Mathématiques pour l'informatique: pour le BTS SIO",
+		"title-short": "Mathématiques pour l'informatique",
+		"author": [
+			{
+				"family": "Chanet",
+				"given": "Xavier"
+			},
+			{
+				"family": "Vert",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "johnsonProBashProgramming2015",
+		"type": "book",
+		"edition": "2",
+		"event-place": "New York",
+		"isbn": "978-1-4842-0122-0",
+		"language": "en",
+		"number-of-pages": "258",
+		"publisher": "Apress",
+		"publisher-place": "New York",
+		"title": "Pro Bash Programming, Second Edition: Scripting the GNU/Linux Shell",
+		"title-short": "Pro Bash Programming, Second Edition",
+		"author": [
+			{
+				"family": "Johnson",
+				"given": "Chris"
+			},
+			{
+				"family": "Varma",
+				"given": "Jayant"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "richardsonPOJOsActionDeveloping2006",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Greenwich, CT",
+		"isbn": "978-1-932394-58-0",
+		"language": "en",
+		"number-of-pages": "560",
+		"publisher": "Manning",
+		"publisher-place": "Greenwich, CT",
+		"title": "POJOs in action: developing enterprise applications with lightweight frameworks",
+		"title-short": "POJOs in action",
+		"author": [
+			{
+				"family": "Richardson",
+				"given": "Chris"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "richardsonMicroservicePatternsExamples2019",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Shelter Island, NY",
+		"isbn": "978-1-61729-454-9",
+		"language": "en",
+		"number-of-pages": "520",
+		"publisher": "Manning Publications",
+		"publisher-place": "Shelter Island, NY",
+		"title": "Microservice Patterns: With examples in Java",
+		"title-short": "Microservice Patterns",
+		"author": [
+			{
+				"family": "Richardson",
+				"given": "Chris"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "crocusSystemesExploitationOrdinateurs1975",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-04-001445-2",
+		"language": "fr",
+		"number-of-pages": "364",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Systèmes d'exploitation des ordinateurs: principes de conception",
+		"title-short": "Systèmes d'exploitation des ordinateurs",
+		"author": [
+			{
+				"family": "Crocus",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "campardoMemoryMassStorage2011",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Heidelberg",
+		"isbn": "978-3-642-14751-7",
+		"language": "en",
+		"number-of-pages": "479",
+		"publisher": "Springer",
+		"publisher-place": "Heidelberg",
+		"title": "Memory Mass Storage",
+		"author": [
+			{
+				"family": "Campardo",
+				"given": "Giovanni"
+			},
+			{
+				"family": "Tiziani",
+				"given": "Federico"
+			},
+			{
+				"family": "Iaculo",
+				"given": "Massimo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "bersiniProgrammationOrienteeObjet2011",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-212-12441-5",
+		"language": "fr",
+		"number-of-pages": "616",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"title": "La programmation orientée objet",
+		"author": [
+			{
+				"family": "Bersini",
+				"given": "Hugues"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "dumasTheorieCodesCompression2007",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-10-050692-7",
+		"language": "fr",
+		"number-of-pages": "352",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Théorie des codes: compression, cryptage, correction",
+		"title-short": "Théorie des codes",
+		"author": [
+			{
+				"family": "Dumas",
+				"given": "Jean-Guillaume"
+			},
+			{
+				"family": "Roch",
+				"given": "Jean-Louis"
+			},
+			{
+				"family": "Tannier",
+				"given": "Éric"
+			},
+			{
+				"family": "Varrette",
+				"given": "Sébastien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "blochEffectiveJava2018",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-13-468599-1",
+		"language": "en",
+		"number-of-pages": "392",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Boston, MA",
+		"title": "Effective Java",
+		"author": [
+			{
+				"family": "Bloch",
+				"given": "Joshua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "grantCSSDepth2018",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Shelter Island, NY",
+		"isbn": "978-1-61729-345-0",
+		"language": "en",
+		"number-of-pages": "375",
+		"publisher": "Manning Publications",
+		"publisher-place": "Shelter Island, NY",
+		"title": "CSS in Depth",
+		"author": [
+			{
+				"family": "Grant",
+				"given": "Keith J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "morrisInfrastructureCode2016",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Sebastopol, CA",
+		"isbn": "978-1-4919-2435-8",
+		"language": "en",
+		"number-of-pages": "250",
+		"publisher": "O′Reilly",
+		"publisher-place": "Sebastopol, CA",
+		"title": "Infrastructure as Code",
+		"author": [
+			{
+				"family": "Morris",
+				"given": "Kief"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "grahamBasicsDesignLayout2005",
+		"type": "book",
+		"edition": "2",
+		"event-place": "Clifton Park, NY",
+		"isbn": "978-1-4018-7952-5",
+		"language": "en",
+		"number-of-pages": "305",
+		"publisher": "Thomson/Delmar Learning",
+		"publisher-place": "Clifton Park, NY",
+		"title": "Basics of design: layout and typography for beginners",
+		"title-short": "Basics of design",
+		"author": [
+			{
+				"family": "Graham",
+				"given": "Lisa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "seemannDependencyInjectionPrinciples2019",
+		"type": "book",
+		"edition": "2",
+		"event-place": "Shelter Island, NY",
+		"isbn": "978-1-61729-473-0",
+		"language": "en",
+		"number-of-pages": "552",
+		"publisher": "Manning Publications",
+		"publisher-place": "Shelter Island, NY",
+		"title": "Dependency Injection Principles, practices and patterns",
+		"author": [
+			{
+				"family": "Seemann",
+				"given": "Mark"
+			},
+			{
+				"family": "Deursen",
+				"given": "Steven",
+				"dropping-particle": "van"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "cegielskiConceptionSystemesExploitation2004",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-212-11479-9",
+		"language": "fr",
+		"number-of-pages": "700",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"title": "Conception de systèmes d'exploitation: le cas Linux",
+		"title-short": "Conception de systèmes d'exploitation",
+		"author": [
+			{
+				"family": "Cegielski",
+				"given": "Patrick"
+			},
+			{
+				"family": "Ropert",
+				"given": "Mathieu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "fowlerPatternsEnterpriseApplication2002",
+		"type": "book",
+		"collection-title": "Addison-Wesley signature series",
+		"edition": "1",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-321-12742-6",
+		"language": "en",
+		"number-of-pages": "560",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Boston, MA",
+		"title": "Patterns of Enterprise Application Architecture",
+		"author": [
+			{
+				"family": "Fowler",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "tacheConduireProjetInformatique2014",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-212-55915-6",
+		"language": "fr",
+		"number-of-pages": "192",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"title": "Conduire un projet informatique",
+		"author": [
+			{
+				"family": "Taché",
+				"given": "Philippe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "goupilleTechnologieOrdinateursReseaux2008",
+		"type": "book",
+		"edition": "8",
+		"event-place": "Paris",
+		"isbn": "978-2-10-053944-4",
+		"language": "fr",
+		"number-of-pages": "540",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Technologie des ordinateurs et des réseaux: cours et exercices corrigés",
+		"title-short": "Technologie des ordinateurs et des réseaux",
+		"author": [
+			{
+				"family": "Goupille",
+				"given": "Pierre-Alain"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "martinCleanCoderCode2011",
+		"type": "book",
+		"collection-title": "Robert C. Martin Series",
+		"edition": "1",
+		"event-place": "Upper Saddle River, NJ",
+		"isbn": "978-0-13-708107-3",
+		"language": "en",
+		"number-of-pages": "256",
+		"publisher": "Prentice Hall",
+		"publisher-place": "Upper Saddle River, NJ",
+		"title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+		"title-short": "The Clean Coder",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Robert C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "strandhArchitectureOrdinateur2005",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Paris",
+		"isbn": "978-2-10-049214-5",
+		"language": "fr",
+		"number-of-pages": "224",
+		"publisher": "Dunod",
+		"publisher-place": "Paris",
+		"title": "Architecture de l'ordinateur",
+		"author": [
+			{
+				"family": "Strandh",
+				"given": "Robert"
+			},
+			{
+				"family": "Durand",
+				"given": "Irène"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "sebestaConceptsProgrammingLanguages2016",
+		"type": "book",
+		"edition": "11",
+		"event-place": "Boston, MA",
+		"isbn": "978-1-292-10055-5",
+		"language": "en",
+		"number-of-pages": "790",
+		"publisher": "Pearson",
+		"publisher-place": "Boston, MA",
+		"title": "Concepts of Programming Languages, Global Edition",
+		"author": [
+			{
+				"family": "Sebesta",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "kneuselNumbersComputers2017",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Cham",
+		"isbn": "978-3-319-50507-7",
+		"language": "en",
+		"number-of-pages": "244",
+		"publisher": "Springer",
+		"publisher-place": "Cham",
+		"title": "Numbers and Computers",
+		"author": [
+			{
+				"family": "Kneusel",
+				"given": "Ronald T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "berkunMythsInnovation2010",
+		"type": "book",
+		"edition": "1",
+		"event-place": "Sebastopol, CA",
+		"isbn": "978-1-4493-8962-8",
+		"language": "en",
+		"number-of-pages": "256",
+		"publisher": "O′Reilly",
+		"publisher-place": "Sebastopol, CA",
+		"title": "The Myths of Innovation",
+		"author": [
+			{
+				"family": "Berkun",
+				"given": "Scott"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "nelsonMicrosoftOfficeExcel2007",
+		"type": "book",
+		"collection-title": "For dummies",
+		"edition": "1",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-0-470-04599-2",
+		"language": "en",
+		"number-of-pages": "384",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "Microsoft Office Excel 2007 data analysis for dummies",
+		"author": [
+			{
+				"family": "Nelson",
+				"given": "Stephen L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "haykinIntroductionAnalogDigital2006",
+		"type": "book",
+		"edition": "2",
+		"event-place": "Hoboken, NJ",
+		"isbn": "978-0-471-43222-7",
+		"language": "en",
+		"number-of-pages": "540",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Hoboken, NJ",
+		"title": "An Introduction to Analog and Digital Communications",
+		"author": [
+			{
+				"family": "Haykin",
+				"given": "Simon"
+			},
+			{
+				"family": "Moher",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "demeyerObjectOrientedReengineering2003",
+		"type": "book",
+		"edition": "1",
+		"event-place": "San Francisco, CA",
+		"isbn": "978-1-55860-639-5",
+		"language": "en",
+		"number-of-pages": "282",
+		"publisher": "Morgan Kaufmann Publishers",
+		"publisher-place": "San Francisco, CA",
+		"title": "Object Oriented Reengineering Patterns",
+		"author": [
+			{
+				"family": "Demeyer",
+				"given": "Serge"
+			},
+			{
+				"family": "Ducasse",
+				"given": "Stephane"
+			},
+			{
+				"family": "Nierstrasz",
+				"given": "Oscar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "troppensStorageNetworksExplained2009",
+		"type": "book",
+		"edition": "2",
+		"event-place": "Chichester",
+		"isbn": "978-0-470-74143-6",
+		"language": "en",
+		"number-of-pages": "564",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "Chichester",
+		"title": "Storage networks explained: basics and application of Fibre Channel SAN, NAS, iSCSI, InfiniBand and FCoE",
+		"title-short": "Storage networks explained",
+		"author": [
+			{
+				"family": "Troppens",
+				"given": "Ulf"
+			},
+			{
+				"family": "Erkens",
+				"given": "Rainer"
+			},
+			{
+				"family": "Müller-Friedt",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Wolafka",
+				"given": "Rainer"
+			},
+			{
+				"family": "Haustein",
+				"given": "Nils"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "fowlerRefactoringImprovingDesign2018",
+		"type": "book",
+		"collection-title": "Addison-Wesley signature series",
+		"edition": "2",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-13-475759-9",
+		"language": "en",
+		"number-of-pages": "448",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Boston, MA",
+		"title": "Refactoring: Improving the Design of Existing Code",
+		"title-short": "Refactoring",
+		"author": [
+			{
+				"family": "Fowler",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "kerievskyRefactoringPatterns2004",
+		"type": "book",
+		"collection-title": "Addison-Wesley signature series",
+		"edition": "1",
+		"event-place": "Boston, MA",
+		"isbn": "978-0-321-21335-8",
+		"language": "en",
+		"number-of-pages": "400",
+		"publisher": "Addison Wesley",
+		"publisher-place": "Boston, MA",
+		"title": "Refactoring to Patterns",
+		"author": [
+			{
+				"family": "Kerievsky",
+				"given": "Joshua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	}
+]
